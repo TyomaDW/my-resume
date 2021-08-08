@@ -37,6 +37,10 @@ img {
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
+.link {
+  text-decoration: none;
+}
+
 /* Main contens section */
 
 .main-content-section {
@@ -124,6 +128,7 @@ img {
   font-size: 12px;
   line-height: 1.25;
   color: #a8a8a8;
+  margin-bottom: 20px;
 }
 
 .my-work-experience-period:not(:last-child) {
