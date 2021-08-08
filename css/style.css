@@ -172,6 +172,10 @@ img {
 
 /* sidebar section */
 
+.photo {
+  width: 100%;
+}
+
 .sidebar-section {
   background-color: #1e2939;
   width: 370px;
