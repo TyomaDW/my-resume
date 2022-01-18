@@ -131,7 +131,7 @@ img {
 .my-work-experience-period {
   font-size: 12px;
   line-height: 1.25;
-  color: #0000;
+  color: #000;
   margin-bottom: 20px;
 }
 
@@ -167,7 +167,6 @@ img {
   margin-bottom: 11px;
 }
 
-.my-education-faculty,
 .faculty-first {
   font-weight: bold;
   line-height: 17px;
